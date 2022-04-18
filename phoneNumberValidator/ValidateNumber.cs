@@ -30,7 +30,7 @@ namespace phoneNumberValidator
 
                 var formatted = pUtil.Format(proto, PhoneNumberFormat.E164);
                 bool result = pUtil.IsValidNumber(proto);
-                Console.WriteLine($"Formatted looks liked this: {formatted} vs {aNumber}");
+                Console.WriteLine($"Formatted: {formatted} \nOriginal: {aNumber}");
                 return pUtil.IsValidNumber(proto);
 
             }
