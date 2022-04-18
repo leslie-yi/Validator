@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nHJ+qFZeB5qIJ5bjoIRKCfXlXnWg/eD8Po4KrvDkSSBa6K87rDHzfrO3HsKshedfuqae053UBBgB77gedz9QyA==",
+  "success": true,
+  "projectFilePath": "/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/phoneNumberValidator.csproj",
+  "expectedPackageFiles": [
+    "/Users/leslie.yi/.nuget/packages/libphonenumber-csharp/8.12.46/libphonenumber-csharp.8.12.46.nupkg.sha512",
+    "/Users/leslie.yi/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

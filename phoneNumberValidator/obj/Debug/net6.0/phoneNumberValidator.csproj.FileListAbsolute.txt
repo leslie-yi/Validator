@@ -1,0 +1,17 @@
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/bin/Debug/net6.0/phoneNumberValidator
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/bin/Debug/net6.0/phoneNumberValidator.deps.json
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/bin/Debug/net6.0/phoneNumberValidator.runtimeconfig.json
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/bin/Debug/net6.0/phoneNumberValidator.dll
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/bin/Debug/net6.0/phoneNumberValidator.pdb
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/obj/Debug/net6.0/phoneNumberValidator.csproj.AssemblyReference.cache
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/obj/Debug/net6.0/phoneNumberValidator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/obj/Debug/net6.0/phoneNumberValidator.AssemblyInfoInputs.cache
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/obj/Debug/net6.0/phoneNumberValidator.AssemblyInfo.cs
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/obj/Debug/net6.0/phoneNumberValidator.csproj.CoreCompileInputs.cache
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/obj/Debug/net6.0/phoneNumberValidator.dll
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/obj/Debug/net6.0/refint/phoneNumberValidator.dll
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/obj/Debug/net6.0/phoneNumberValidator.pdb
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/obj/Debug/net6.0/phoneNumberValidator.genruntimeconfig.cache
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/obj/Debug/net6.0/ref/phoneNumberValidator.dll
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/bin/Debug/net6.0/PhoneNumbers.dll
+/Users/leslie.yi/Projects/phoneNumberValidator/phoneNumberValidator/obj/Debug/net6.0/phoneNumberValidator.csproj.CopyComplete
