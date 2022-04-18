@@ -10,11 +10,7 @@ namespace phoneNumberValidator
             aNumber = aNumber.Trim();
 
             //Unsure of what the smsRequest.ToExternalNumber will look like.
-            //TODO: Will the number include International Access Code
-            //examples:
-            //00 44 141 441 7054
-            //+ 44 141 441 7054
-
+            //TODO: Will the number include International Access Code like 00 44 141 441 7054
             //TODO: Will the number format always be with the "+" and International Calling Codes?
             //TODO: Is it only US numbers or all international numbers?
 

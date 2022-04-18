@@ -16,7 +16,6 @@ public class UnitTest1
     [InlineData("00 44 141 441 7054")] //UK with 00 and whitespace
     [InlineData("+34 915 77 52 39")] //Spain E164 Format
     [InlineData("+82-62-950-6114")] //Korea E164 Format with Dashes
-
     public void ValidatesTrueForValidPhoneNumberTest(string phoneNumber)
     {
         //Arrange
